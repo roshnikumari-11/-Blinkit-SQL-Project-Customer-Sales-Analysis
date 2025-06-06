@@ -2,6 +2,10 @@
 
 This project is a simulation of a small e-commerce system (similar to Blinkit), built with sample data for **customers**, **products**, **orders**, and **order items**. It was created to practice writing intermediate SQL queries and generating valuable insights from structured data.
 
+<p align="center">
+  <img src="demo_pdf.gif" alt="Dashboard Preview" width="700" height="400" />
+</p>
+
 ## 📎 Report Link
 
 🗂️ **[Click here to view the PDF report](./Blinkit_SQL_Project_Report.pdf)**
